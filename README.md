@@ -27,3 +27,4 @@ It uses packagekit under the hood and is extremely work in progress.
 - [ ] Code cleanup: try and stop abusing callback data with hardcoded if statements
 - [ ] Code cleanup: more robust error checking
 - [ ] Code cleanup: handle application state more effectively
+- [ ] Translations: https://app.transifex.com/solus/solus-mate-transition-tool
